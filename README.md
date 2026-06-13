@@ -1,24 +1,25 @@
 # Ferodo
-**Systems Engineer | Reverse Engineer | Go Architect**
+**Systems & Reverse Engineer | Linux & Network Specialist | AI Pipeline Architect**
 
-I build high-performance systems and tear down complex binaries. My focus is on the raw mechanics of software—whether that means writing highly concurrent engines in Go, analyzing network anomalies, or dropping into Assembly and Smali to see how things actually tick. 
+I engineer high-performance software, dissect compiled binaries, and architect automated AI pipelines. My expertise lies at the intersection of low-level system mechanics and intelligent automation—whether that involves dynamic instrumentation with Frida, kernel-level Linux optimization, advanced network telemetry, or orchestrating generative AI workflows.
 
-I don't just use APIs; I prefer to understand the architecture underneath them.
+I don't just consume technology; I break down its abstraction layers to understand exactly how it operates.
 
-### What I Work On
+### Core Areas of Expertise
 
-* **Backend & Systems Architecture:** Designing lightweight, high-speed backend services and custom tooling, heavily utilizing **Go** for its strict concurrency models.
-* **Reverse Engineering & Debugging:** Dissecting compiled applications. Comfortable with Android internals (Dalvik/ART), patching **Smali**, analyzing **Assembly (x86/ARM)**, and dynamic debugging (GDB, x64dbg).
-* **Network Heuristics & DPI Evasion:** Building custom proxy routing, analyzing packet loss matrices, manipulating uTLS fingerprints, and bypassing Deep Packet Inspection (DPI) and QoS throttling.
-* **AI & Stateful Automation:** Architecting complex Telegram bot engines, integrating predictive network scoring models, and deploying automated edge-computing pipelines.
-* **UI/UX Tooling:** Translating complex background logic (like network waterfall charts and telemetry) into clean, responsive desktop applications.
+* **Reverse Engineering & Dynamic Instrumentation:** Advanced runtime analysis and binary exploitation. Experienced in writing custom **Frida** scripts for dynamic hooking, bypassing SSL pinning/root detection, and executing **Memory/Process Dumps** to unpack and analyze obfuscated software and mobile internals (Smali/Dalvik).
+* **Linux & Systems Infrastructure:** Deep understanding of Linux internals, system calls, and kernel-level network stack tuning. Expert in managing resilient, hardened environments for high-throughput enterprise deployments.
+* **Advanced Network Analysis & Heuristics:** Engineering custom routing engines and deep packet inspection (DPI) countermeasures. Specialized in uTLS/JA3 fingerprinting, traffic analysis, mitigating QoS shaping, and interpreting real-time packet loss matrices.
+* **AI Pipelines & Generative Automation:** Designing and automating complex AI workflows, including node-based generative architectures via **ComfyUI**, custom API integrations, large-scale automation channels, and stateful, high-concurrency bot engines.
+* **Full-Stack Tooling & High-Performance Go:** Developing lightning-fast backend systems using **Go** for maximum concurrency, combined with clean, responsive front-end and desktop dashboards to visualize complex telemetry data.
 
-### Tech Stack
+### Technical Stack
 
-* **Languages:** Go, Assembly (x86/ARM), Smali, Python, C/C++, C# / .NET, JavaScript/TypeScript, Java
-* **Network & Routing:** Custom TCP/UDP protocols, BGP analysis, Cloudflare Workers, DNS spoofing mitigation
-* **RE & Analysis:** APKTool, Decompilers, Hex editors, Memory tracing
-* **Infrastructure:** Linux (Ubuntu) Administration, VPS orchestration, Serverless Edge Deployments
+* **Low-Level & Reverse Engineering:** Frida (Runtime Hooking), Memory Dumping, Assembly (x86/ARM), Smali, GDB, x64dbg, APKTool, Binary Patching
+* **Core Programming Languages:** Go (Golang), C/C++, Python, Rust, C# / .NET, Bash/Shell scripting, Java, JavaScript/TypeScript
+* **AI & Automation Ecosystem:** ComfyUI Workflow Automation, Generative AI APIs, Stateful Bot Architectures, Custom Channel Integrations
+* **Linux & Network Engineering:** Linux Kernel Tuning, Custom TCP/UDP Protocols, BGP Routing, Cloudflare Workers/Edge, Advanced IP Telemetry
+* **Web & Data Stack:** React / Next.js, Node.js, Tailwind CSS, PostgreSQL, Redis, MongoDB, Docker Orchestration
 
 ---
 *"Talk is cheap. Show me the code."*
